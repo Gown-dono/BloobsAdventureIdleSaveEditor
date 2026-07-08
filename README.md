@@ -34,7 +34,7 @@ Portable Windows save editor for **Bloobs Adventure Idle**. It is built to be po
 3. Extract the ZIP somewhere convenient, such as your Desktop or Downloads folder.
 4. Run `BAI Save Editor.exe`.
 
-The app is unsigned, so Windows SmartScreen may show a warning. Choose **More info** and then **Run anyway** if you trust the download source.
+The app is unsigned, so Windows SmartScreen may show a warning. Choose **More info** and then **Run anyway**.
 
 ## What It Can Do
 
