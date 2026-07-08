@@ -1,16 +1,17 @@
-[h1] Bloobs Adventure Idle Save Editor [aka BAI Save Editor] [/h1]
+# Bloobs Adventure Idle Save Editor [aka BAI Save Editor]
 
 Powerful save editor for Bloobs Adventure Idle. It is built for power users, but the UI is designed to be approachable for beginners: load a save, edit values, review changes, keep backups, and write the save safely.
 
-[h2] Download [/h2] 
--Open the GitHub page:
-[url=https://github.com/Gown-dono/BloobsAdventureIdleSaveEditor]BAI Save Editor on GitHub[/url]
+## Download
 -Download the latest Release.
+
 -Extract the ZIP somewhere convenient, such as your Desktop or Downloads folder.
+
 -Run: BAI Save Editor.exe
+
 -Since the app is unsigned, you may receive a SmartScreen warning. Click “More Info” -> “Run Anyway.”
 
-[h2] What It Can Do? [/h2]
+## What It Can Do?
 
 - Auto-detect the game install, save folder, save slots, and Unity game data.
 - Edit `SaveFile.es3` and supported future save slots.
@@ -24,9 +25,9 @@ Powerful save editor for Bloobs Adventure Idle. It is built for power users, but
 - Keep `IsModded=false` by default, while still allowing users to preserve or force the flag if they choose.
 - Auto-scan schema/catalog data on startup and refresh when the game updates.
 
-[b] Note: Every time you open Save Editor, a 2-3 minute scan runs. For now, this is necessary to ensure you get the most up-to-date values, even if the game is updated. If I find a better method, I’ll change it. [/b]
+Note: Every time you open Save Editor, a 2-3 minute scan runs. For now, this is necessary to ensure you get the most up-to-date values, even if the game is updated. If I find a better method, I’ll change it.
 
-[h2] Game Stat Patch [/h2]
+## Game Stat Patch
 
 Some item stats are reset by the game on load from its built-in item database. The editor includes an optional "Game Stat Patch" that makes saved item stat edits survive game load for inventory, bank, and equipment items. (Yes, you can max out equipment/item stats to 999!)
 
@@ -38,7 +39,7 @@ The patch:
 
 After a game update, run "Actions -> Game Stat Patch -> Check" and enable it again if needed.
 
-[h2] Safe Use [/h2]
+## Safe Use
 
 1. Close Bloobs Adventure Idle before saving or patching.
 2. Open the editor and let it auto-scan.
@@ -49,7 +50,7 @@ After a game update, run "Actions -> Game Stat Patch -> Check" and enable it aga
 
 If something goes wrong, use the Backups tab to restore an earlier save.
 
-[h2] Notes [/h2]
+## Notes
 
 - The local Wiki and item catalog come from your installed game files, so they are usually more current than old online guides.
 - Patching game files is optional. Save editing works without it, but some non-HP item stat cheats may be reset by the unpatched game.
