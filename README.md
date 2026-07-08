@@ -1,3 +1,7 @@
+<p align="center">
+<img width="480" height="240" alt="logo1" src="https://github.com/user-attachments/assets/8754de0e-5724-45c5-b6ca-8d29bf997098" />
+</p>
+
 # Bloobs Adventure Idle Save Editor [aka BAI Save Editor]
 
 Portable Windows save editor for **Bloobs Adventure Idle**. It is built to be powerful for advanced users, while staying approachable for beginners: load a save, edit values, preview changes, keep backups, and write the save safely.
